@@ -17,5 +17,5 @@ THe sample site for notetaker is located at https://secret-basin-99335.herokuapp
 #GitHub Repo
 
 The repo for this project is located at 
-https://github.com/Savannahpolcen/Notetake
+https://github.com/Savannahpolcen/Notetaker
 
